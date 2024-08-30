@@ -4,16 +4,8 @@ lnk.setAttribute('href', 'https://jatcollab88.github.io/test/style.css');
 lnk.setAttribute('rel', 'stylesheet');
 document.head.appendChild(lnk);
 
-// Links jquery
-// let src = document.createElement('script');
-// src.setAttribute('src', 'https://code.jquery.com/jquery-3.7.1.slim.min.js');
-// src.setAttribute('integrity', 'sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=');
-// src.setAttribute('crossorigin', 'anonymous');
-// document.head.appendChild(src);
-
 // Checks jquery has loaded
 var jqReady = setInterval(function(){
-	console.log('Checking for jq')
 	if (typeof $ != 'undefined') {
 		clearInterval(jqReady);
 		runJqFuncs();
