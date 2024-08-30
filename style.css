@@ -1,3 +1,16 @@
 .myContainer {
 	max-width: 80%;
+	margin: auto;
+}
+
+.myTrigger {
+	width: 100%;
+	background: red;
+	margin: 0;
+}
+
+.myContent {
+	display: none;
+	width: 100%
+	background: pink;
 }
