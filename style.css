@@ -5,8 +5,9 @@
 
 .myTrigger {
 	width: 100%;
-	background: red;
-	margin: 0;
+    background: red;
+    border-radius: 10px;
+    margin: 0;
 }
 
 .myContent {
