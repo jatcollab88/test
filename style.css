@@ -1,18 +1,18 @@
 .myContainer {
-	max-width: 80%;
+	max-width: 40%;
 	margin: auto;
 }
 
 .myTrigger {
-	width: 100%;
-    background: ffdc00;
+	width: 60%;
+    background: #ffdc00;
     border-radius: 10px;
     margin: 0;
-    text-align: center;
+    text-align: left;
 }
 
 .myContent {
 	display: none;
-	width: 100%;
-	background: D3D0CB;
+	width: 60%;
+	background: #D3D0CB;
 }
