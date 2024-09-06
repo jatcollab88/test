@@ -2,13 +2,12 @@
 	max-width: 80%;
 	margin: auto;
 }
-
 .myTrigger {
 	width: 100%;
     background: yellow;
-    border-radius: 3px;
+    border-radius: 10px;
     margin: 0;
-    text-align: left;
+    text-align: center;
 }
 
 .myContent {
@@ -16,5 +15,3 @@
 	width: 100%;
 	background: white;
 }
-
-
