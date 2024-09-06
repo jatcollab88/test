@@ -5,7 +5,7 @@
 
 .myTrigger {
 	width: 100%;
-    background: ffdc00;
+    background: yellow;
     border-radius: 3px;
     margin: 0;
     text-align: left;
@@ -14,12 +14,7 @@
 .myContent {
 	display: none;
 	width: 100%;
-	background: D3D0CB;
+	background: gray;
 }
 
-.th, td {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 20px;
-  padding-right: 20px;
-}
+
