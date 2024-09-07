@@ -3,7 +3,7 @@
 	margin: auto;
 }
 .myTrigger {
-	width: 60%;
+	width: 80%;
     background: #ffdc00;
     border-radius: 3px;
     margin: 0;
@@ -12,6 +12,6 @@
 
 .myContent {
 	display: none;
-	width: 60%;
+	width: 80%;
 	background: #D3D0CB;
 }
