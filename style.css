@@ -8,10 +8,12 @@
     border-radius: 3px;
     margin: 0;
     text-align: left;
+    padding: 10px;
 }
 
 .myContent {
 	display: none;
 	width: 80%;
 	background: #F1F7ED;
+	padding: 10px;
 }
